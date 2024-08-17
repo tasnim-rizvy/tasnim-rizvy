@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 Welcome to my GitHub profile! I'm Tasnim Rizvy, a passionate web developer with a focus on WordPress theme development. Here's a bit about me:
 
@@ -8,6 +8,13 @@ Welcome to my GitHub profile! I'm Tasnim Rizvy, a passionate web developer with 
 - 👯 I’m looking to collaborate on: WordPress themes, web development projects, and open-source contributions.
 - 💬 Ask me about: WordPress, Wordpress themes, plugins, and JavaScript
 - ⚡ Fun fact: I can code and crack jokes at the same time—debugging with a smile is my superpower! 
+
+## Work Experience
+
+- Former Web Developer at HandyWebLab
+- Former Web Developer at Omnitech Solutions
+- Wordpress Theme Developer at Themexplosion
+- Freelancing in Fiverr
 
 ## 🛠️ Skills & Tools
 
