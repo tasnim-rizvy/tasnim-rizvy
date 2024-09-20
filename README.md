@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm Tasnim Rizvy, a passionate web developer with 
 
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=tasnim-rizvy&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-rizvy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-rizvy&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 How to Reach Me
 
