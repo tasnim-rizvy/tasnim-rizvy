@@ -36,7 +36,9 @@ Welcome to my GitHub profile! I'm Tasnim Rizvy, a passionate web developer with 
 
 ## 📈 GitHub Stats
 
-![tasnim-rizvy's Stats](https://github-readme-stats.vercel.app/api?username=tasnim-rizvy&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasnim-rizvy&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-rizvy&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
