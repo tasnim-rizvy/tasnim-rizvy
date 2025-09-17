@@ -1,46 +1,72 @@
-# Hi there!
+# 👋 Hey, I’m **Tasnim Rizvy**
 
-Welcome to my GitHub profile! I'm Tasnim Rizvy, a passionate Software Engineer with a focus on WordPress plugins. Here's a bit about me:
+💻 Passionate **Software Engineer** specializing in **WordPress plugin development** and modern **React/Next.js** applications.
+I enjoy building scalable, performance-driven solutions that bridge **front-end experiences** with **backend efficiency**.
+
+---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: React.js, Next.js
-- 👯 I’m looking to collaborate on: WordPress Plugins, Front-End projects, and open-source contributions.
-- 💬 Ask me about: Wordpress themes, plugins, JavaScript, React.js, Next.js
-- ⚡ Fun fact: I can code and crack jokes at the same time—debugging with a smile is my superpower! 
+* 🌱 Currently learning & experimenting with **React Context**, **SlotFill in WordPress**, and **Modern Design Patterns in PHP**
+* 👯 Looking to collaborate on **WordPress plugins, React/Next.js projects, and open-source tools**
+* 💬 Ask me about **WordPress (plugins/themes), React.js, Next.js, JavaScript, PHP**
+* 🎯 Goal: To become a **full-stack engineer** bridging **WordPress ecosystems** with **modern JavaScript frameworks**
+* ⚡ Fun fact: I can **debug and crack jokes at the same time** — coding with laughter is my superpower 😄
 
-## Work Experience
+---
 
-- Jr. Software Engineer at Codexpert Inc.
+## 💼 Work Experience
 
-## 🛠️ Skills & Tools
+**Jr. Software Engineer** @ [Codexpert Inc.](https://codexpert.io)
 
-- **Languages & Frameworks:**
-  - HTML5, CSS3
-  - CMS: Wordpress
-  - Languages: JavaScript, PHP
-  - Frameworks: React.js, Vue.js, Next.js
-  - CSS Frameworks: Bootstrap, Tailwind.css
+* Worked with the development team of **EasyCommerce** used by thousands of users
+* Improved performance and maintainability across large-scale projects
 
-- **Tools & Platforms:**
-  - Git & GitHub
-  - VS Code
-  - Laragon
-  - Node.js
+---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=tasnim-rizvy&theme=radical&hide_border=true)
+### **Frontend**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-rizvy&theme=radical&show_icons=true&hide_border=true&layout=compact)
+* React.js, Next.js, Vue.js
+* WordPress (Gutenberg, SlotFill, Plugin UI)
+* JavaScript (ES6+), HTML5, CSS3
+* Tailwind CSS, Bootstrap
 
-## 📫 How to Reach Me
+### **Backend**
 
-- [LinkedIn](https://www.linkedin.com/in/tasnimrizvy/)
-- [Email](tasnimrizvy373@gmail.com)
-- [Whatsapp](+8801729202684)
+* PHP (WordPress Core, Plugin APIs, Theme Dev)
+* REST API (custom endpoints & integration)
+* MySQL
 
-Feel free to explore my repositories and reach out if you want to collaborate on something interesting!
+### **Tools & Platforms**
 
-Thanks for visiting! 😄
+* Git & GitHub
+* VS Code
+* Docker
+* npm & yarn
+* WordPress CLI
 
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-rizvy&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-rizvy&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>  
+
+---
+
+## 📫 Connect with Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/tasnimrizvy/)
+* 📧 [Email](mailto:tasnimrizvy373@gmail.com)
+* 💬 [WhatsApp](https://wa.me/8801729202684)
+
+---
+
+✨ Thanks for visiting my profile! Let’s build something awesome together 🚀
